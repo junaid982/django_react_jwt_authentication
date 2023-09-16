@@ -6,7 +6,10 @@ function Login() {
     <div>
       <>
       <div>
-        Login Form
+        <form>
+            <label>Email-ID</label>
+            <inout type="email" />
+        </form>
       </div>
       
       </>
