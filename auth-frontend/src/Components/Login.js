@@ -8,10 +8,12 @@ function Login() {
       <div>
         <form>
             <label>Email-ID</label>
-            <inout type="email" />
+            <input type="email" />
 
             <label>Password </label>
-            <inout type="password" />
+            <input type="password" />
+
+            <input type="submit" name="Submit" />
 
         </form>
       </div>
