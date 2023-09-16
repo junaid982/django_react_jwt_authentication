@@ -9,6 +9,10 @@ function Login() {
         <form>
             <label>Email-ID</label>
             <inout type="email" />
+
+            <label>Password </label>
+            <inout type="password" />
+
         </form>
       </div>
       
